@@ -1,4 +1,4 @@
-<h1 align="center">Piano online em Javasript</h1> <br/>
+<h1 align="center">Piano online em Javascript</h1> <br/>
 
 <img  width="100%" src="images/bannerCapa.png" />
 
